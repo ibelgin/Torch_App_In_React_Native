@@ -1,7 +1,31 @@
-# Torch_App_In_React_Native
-Hi Guys This is A Simple Torch App Made with React Native 
+# Torch App In React Native
 
-Dependencies Used --> react-native-torch
-    
-Video Tutorial --> https://www.youtube.com/watch?v=urHnXEaG9Ws&t=6s
+This App Was made using React native. 
+
+### Installing
+
+> Clone This Repo To Your PC 
+
+> Run npm install
+
+> Run The App
+
+## Built With
+
+* React Native
+* react-native-torch
+
+## Check Out My Youtube Channel For Tutorial
+
+[Tutorial - Belgin Android](https://youtube.com/c/belginandroid)
+
+## Authors
+
+* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
 
