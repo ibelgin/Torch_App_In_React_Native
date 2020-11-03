@@ -11,6 +11,7 @@ export default class App extends React.Component{
   onPressOff=()=>{
     Torch.switchState(false)
   }
+
   render(){
     return(
       <View style={styles.container}>
@@ -25,7 +26,6 @@ export default class App extends React.Component{
         <TouchableOpacity style={styles.button} onPress={this.onPressOff}>
           <Text style={styles.text}> Off </Text>
         </TouchableOpacity>
-
       </View>
     )
   }
